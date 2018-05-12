@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36041'
     url: http://www.gutenberg.org/2009/agents/36041
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32781#Blackboard-Drawing
 gutenberg_issued: '2010-06-11'
 gutenberg_type: Text
 identifiers:
