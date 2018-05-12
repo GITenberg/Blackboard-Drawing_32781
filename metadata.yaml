@@ -1,0 +1,24 @@
+_repo: Blackboard-Drawing_32781
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Whitney, Frederick
+    gutenberg_agent_id: '36041'
+    url: http://www.gutenberg.org/2009/agents/36041
+description: ''
+gutenberg_issued: '2010-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32781'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Blackboard drawing'
+- !lcc 'NC'
+title: Blackboard Drawing
+url: http://www.gutenberg.org/ebooks/32781
